@@ -90,12 +90,12 @@ http://127.0.0.1:7860
 
 ### 🧠 Parkinson’s Detected
 <p align="center">
-  <img src="Screenshot 2025-11-12 233301.png" width="650">
+  <img src="Screenshot 2025-11-12 233337.png" width="650">
 </p>
 
 ### ✅ Voice Appears Normal
 <p align="center">
-  <img src="Screenshot 2025-11-12 233337.png" width="650">
+  <img src="Screenshot 2025-11-12 233301.png" width="650">
 </p>
 
 ---
