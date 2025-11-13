@@ -83,7 +83,7 @@ http://127.0.0.1:7860
 
 ## 📈 Model Performance
 <p align="center">
-  <img src="screenshots/accuracy.png" width="600">
+  <img src="Screenshot 2025-11-12 193246.png" width="600">
 </p>
 
 ---
