@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="screenshots/banner.png" width="900">
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/👨‍💻 Developer-Prince%20S-007bff?style=for-the-badge&logo=github">
@@ -25,7 +23,7 @@ The system is built with a **LightGBM model** and a clean **Gradio interface**, 
 
 ## 🎥 App Demo
 <p align="center">
-  <img src="screenshots/demo.gif" width="700">
+  <img src="Screenshot 2025-11-12 233556.png" width="700">
 </p>
 
 ---
@@ -92,12 +90,12 @@ http://127.0.0.1:7860
 
 ### 🧠 Parkinson’s Detected
 <p align="center">
-  <img src="screenshots/detected.png" width="650">
+  <img src="Screenshot 2025-11-12 233301.png" width="650">
 </p>
 
 ### ✅ Voice Appears Normal
 <p align="center">
-  <img src="screenshots/normal.png" width="650">
+  <img src="Screenshot 2025-11-12 233337.png" width="650">
 </p>
 
 ---
