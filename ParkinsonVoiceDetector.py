@@ -16,7 +16,7 @@ try:
     model = joblib.load("models/parkinsons_best_model.pkl")
     feature_names = joblib.load("models/feature_names.pkl")
     scaler = joblib.load("models/scaler.pkl")
-    MODEL_ACCURACY = 87.18  # From your training
+    MODEL_ACCURACY = 94.87  # From your training
     print("✅ Model loaded successfully.")
 except Exception as e:
     print("❌ Failed to load model:", e)
